@@ -1,0 +1,19 @@
+{
+  "name": "backend-tutorial",
+  "version": "1.0.0",
+  "description": "following a tutorial to create an express api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swkonz/backend-tutorial.git"
+  },
+  "author": "Sean Konz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swkonz/backend-tutorial/issues"
+  },
+  "homepage": "https://github.com/swkonz/backend-tutorial#readme"
+}
